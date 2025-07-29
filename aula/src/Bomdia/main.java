@@ -9,7 +9,7 @@ public class main {
         Scanner teclado = new Scanner(System.in);
 
         try {
-            System.out.println("-- Bem-vindo à loja Ferramentafacil -- ");
+            System.out.println("-- Bem vindo a loja Ferramentafacil -- ");
             System.out.println("Qual menu você deseja acessar");
             System.out.println("1 - Menu de Cadastro e Estoque");
             System.out.println("0 - Sair");
